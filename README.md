@@ -37,10 +37,8 @@
 
 ## 📫 Get in Touch  
 
-📧 Email: [your.email@example.com](mailto:your.email@example.com)  
-💼 LinkedIn: [your-profile](https://linkedin.com/in/your-profile)  
-🐦 Twitter: [your-handle](https://twitter.com/your-handle)  
-📂 Portfolio: [your-website.com](https://your-website.com)  
+📧 Email: [pie.stalteri01@gmail.com](mailto:pie.stalteri01@gmail.com)  
+📂 Portfolio: Work in Progress XD 
 
 ---
 
