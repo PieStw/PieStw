@@ -1,16 +1,27 @@
-## Hi there 👋
+# 🚀 Hey there, I'm Piero! 👋  
 
-<!--
-**PieStw/PieStw** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![GitHub Banner](https://media.giphy.com/media/QTfX9Ejfra3ZmNxh6B/giphy.gif)  
 
-Here are some ideas to get you started:
+💻 **Coding, debugging, and pretending to know what I'm doing.**  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📌 About Me  
+
+- 🧑‍💻 Full-time developer, part-time keyboard smasher  
+- 🐛 Bug hunter by day, bug creator by night  
+- 🛠️ Passionate about building cool stuff (and breaking it)  
+- 🏆 Professional Ctrl+C, Ctrl+V specialist  
+
+## ⚡ Fun Facts  
+
+- My code works 50% of the time... and I have no idea why.  
+- I talk to my code like it's a pet. It listens but never obeys.  
+- Sometimes I write tests. Sometimes they pass.  
+
+## 📫 Get in Touch  
+
+- 💬 Let's talk code (or memes): [Your Contact Info]  
+- 🐙 Check out my repos (or don’t, I won’t judge)  
+
+---
+
+🚀 **"It's not a bug, it's a feature."** 😎
